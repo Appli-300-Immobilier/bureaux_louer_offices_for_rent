@@ -1,18 +1,18 @@
-# To-Do List for Bureaux � Louer - Offices For Rent Website
+# To-Do List for Bureaux é Louer - Offices For Rent Website
 
 ## Project Overview
-- **Company Name:** Bureaux � Louer - Offices For Rent
+- **Company Name:** Bureaux é Louer - Offices For Rent
 - **Directory:** bureaux_louer_offices_for_rent
 - **Address/Contact:** 
-  - Bureaux � Louer - Offices For Rent
-  - Magasins � louer Douala
-  - Maison a Vendre: Golden Broker House Maison A Louer - House For rent Terrain � vendre Douala
+  - Bureaux é Louer - Offices For Rent
+  - Magasins é louer Douala
+  - Maison a Vendre: Golden Broker House Maison A Louer - House For rent Terrain é vendre Douala
   - 
   - GOLDEN BROKERS SERVICE SARL
   - NOUS FACILITONS L'ACQUISITION
   - NOUS ORIENTONS ET NOUS CONSEILLONS.
   - 
-  - Page � Entrepreneuriat
+  - Page é Entrepreneuriat
   - 
   - Douala , Doula, Cameroon
   - 
@@ -35,7 +35,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: bureaux-louer-offices-for-rent  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Bureaux � Louer - Offices For Rent  - Meta description: ...
+  - Title: Bureaux é Louer - Offices For Rent  - Meta description: ...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -51,7 +51,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Bureaux � Louer - Offices For Rent".
+  - Replace the hero title with "Bureaux é Louer - Offices For Rent".
   - Update the subtitle with: "".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
